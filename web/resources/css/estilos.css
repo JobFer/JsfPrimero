@@ -1,0 +1,34 @@
+root{
+    display: block;
+}
+
+.alinizq{
+    text-align: left;
+}
+
+.alinder{
+    text-align: right;
+}
+
+.centrado{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centrado-texto{
+    text-align: center;
+}
+
+.alinder-bold{
+    
+}
+
+/*************/
+
+/*.odd {
+   background-color: #E4DCC1 !important;
+}
+
+.even {
+   background-color: #E1C97B !important;
+}*/
